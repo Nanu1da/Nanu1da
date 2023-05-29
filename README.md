@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nanu1da
+- 👋 Hi, I’m @airneskeh
 - 👀 I’m interested in front end web development 
 - 🌱 I’m currently learning HTML, CSS, JavaScript 
 - 💞️ I’m looking to collaborate on front end projects and learn about web3 
